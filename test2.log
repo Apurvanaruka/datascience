@@ -1,0 +1,27 @@
+INFO:root:This is demo log
+INFO:root:This is second demo log
+WARNING:root:This is warning
+ERROR:root:Invalid alias: The name clear can't be aliased because it is another magic command.
+ERROR:root:Invalid alias: The name more can't be aliased because it is another magic command.
+ERROR:root:Invalid alias: The name less can't be aliased because it is another magic command.
+ERROR:root:Invalid alias: The name man can't be aliased because it is another magic command.
+2023-09-30 09:04:22,573 This is demo log
+2023-09-30 09:04:22,576 This is second demo log
+2023-09-30 09:04:22,577 This is warning
+2023-09-30 09:05:31,818 Invalid alias: The name clear can't be aliased because it is another magic command.
+2023-09-30 09:05:31,819 Invalid alias: The name more can't be aliased because it is another magic command.
+2023-09-30 09:05:31,819 Invalid alias: The name less can't be aliased because it is another magic command.
+2023-09-30 09:05:31,819 Invalid alias: The name man can't be aliased because it is another magic command.
+2023-09-30 09:05:39,395 root INFO This is demo log
+2023-09-30 09:05:39,398 root INFO This is second demo log
+2023-09-30 09:05:39,400 root WARNING This is warning
+2023-09-30 09:10:09,278 parso.python.diff DEBUG diff parser start
+2023-09-30 09:10:09,278 parso.python.diff DEBUG line_lengths old: 4; new: 4
+2023-09-30 09:10:09,278 parso.python.diff DEBUG -> code[equal] old[1:3] new[1:3]
+2023-09-30 09:10:09,280 parso.python.diff DEBUG parse_part from 1 to 4 (to 3 in part parser)
+2023-09-30 09:10:09,280 parso.python.diff DEBUG -> code[replace] old[4:4] new[4:4]
+2023-09-30 09:10:09,281 parso.python.diff DEBUG diff parser end
+2023-09-30 09:18:49,773 root ERROR Invalid alias: The name clear can't be aliased because it is another magic command.
+2023-09-30 09:18:49,774 root ERROR Invalid alias: The name more can't be aliased because it is another magic command.
+2023-09-30 09:18:49,774 root ERROR Invalid alias: The name less can't be aliased because it is another magic command.
+2023-09-30 09:18:49,774 root ERROR Invalid alias: The name man can't be aliased because it is another magic command.

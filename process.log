@@ -1,0 +1,39 @@
+2023-09-30 09:23:53,796 root INFO Start the program
+2023-09-30 09:23:56,453 root INFO defining result list
+2023-09-30 09:26:18,933 root ERROR Invalid alias: The name clear can't be aliased because it is another magic command.
+2023-09-30 09:26:18,934 root ERROR Invalid alias: The name more can't be aliased because it is another magic command.
+2023-09-30 09:26:18,934 root ERROR Invalid alias: The name less can't be aliased because it is another magic command.
+2023-09-30 09:26:18,934 root ERROR Invalid alias: The name man can't be aliased because it is another magic command.
+2023-09-30 09:26:24,430 root INFO Start the program
+2023-09-30 09:26:25,039 root INFO defining result list
+2023-09-30 09:28:16,873 root INFO begaing of first for loop
+2023-09-30 09:28:16,874 root INFO itrate data in the i formate 1
+2023-09-30 09:28:16,874 root INFO itrate data in the i formate 2
+2023-09-30 09:28:16,875 root INFO itrate data in the i formate 3
+2023-09-30 09:28:16,875 root INFO itrate data in the i formate 4
+2023-09-30 09:28:16,876 root INFO itrate data in the i formate [33, 5, 35, 642]
+2023-09-30 09:28:16,876 root INFO itrate data in the i formate Hello
+2023-09-30 09:28:16,877 root INFO itrate data in the i formate World
+2023-09-30 09:31:32,607 root INFO begaing of first for loop
+2023-09-30 09:31:32,610 root INFO itrate data in the i 1
+2023-09-30 09:31:32,610 root INFO now we are itrate main list integer 1
+2023-09-30 09:31:32,612 root INFO itrate data in the i 2
+2023-09-30 09:31:32,613 root INFO now we are itrate main list integer 2
+2023-09-30 09:31:32,613 root INFO itrate data in the i 3
+2023-09-30 09:31:32,613 root INFO now we are itrate main list integer 3
+2023-09-30 09:31:32,613 root INFO itrate data in the i 4
+2023-09-30 09:31:32,613 root INFO now we are itrate main list integer 4
+2023-09-30 09:31:32,613 root INFO itrate data in the i [33, 5, 35, 642]
+2023-09-30 09:31:32,614 root INFO we are in the nested list
+2023-09-30 09:31:32,614 root INFO itrate data in nested list of j33
+2023-09-30 09:31:32,614 root INFO itrate data in nested list of j5
+2023-09-30 09:31:32,614 root INFO itrate data in nested list of j35
+2023-09-30 09:31:32,614 root INFO itrate data in nested list of j642
+2023-09-30 09:31:32,614 root INFO itrate data in the i Hello
+2023-09-30 09:31:32,614 root INFO string is parshing = Hello
+2023-09-30 09:31:32,614 root INFO itrate data in the i World
+2023-09-30 09:31:32,615 root INFO string is parshing = World
+2023-09-30 10:21:07,735 root ERROR Invalid alias: The name clear can't be aliased because it is another magic command.
+2023-09-30 10:21:07,735 root ERROR Invalid alias: The name more can't be aliased because it is another magic command.
+2023-09-30 10:21:07,735 root ERROR Invalid alias: The name less can't be aliased because it is another magic command.
+2023-09-30 10:21:07,735 root ERROR Invalid alias: The name man can't be aliased because it is another magic command.
